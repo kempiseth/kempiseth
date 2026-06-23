@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kempiseth
 - 👀 I’m interested in programming and server infrastructure
-- 🌱 I’m currently learning fabric blockchain
-- 💞️ I’m looking to collaborate on blockchain
-- 📫 How to reach me: pisethkem@hotmail.com
+
+- 📫 How to reach me: pisethkem@gmail.com
 
 <!---
 kempiseth/kempiseth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
